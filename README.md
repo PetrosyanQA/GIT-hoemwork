@@ -5,9 +5,6 @@
 _Любое копирование без разрешения правообладателя и без указания ссылки на источник запрещено._
 
 Скоро запуск! Следите за обновлениями.
-<<<<<<< HEAD
+
 HELLO
-I like netology
-=======
-I am from Armenia
->>>>>>> earlyorder
+I like netology  earlyorder
